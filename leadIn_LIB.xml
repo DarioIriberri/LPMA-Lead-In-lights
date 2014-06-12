@@ -1,0 +1,5 @@
+<FSData version="9.0" xsi:noNamespaceSchemaLocation="bglcomp.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ModelData sourceFile="leadInLight.MDL" />
+  <ModelData sourceFile="leadInFlash.MDL" />
+  <ModelData sourceFile="boxTest.MDL" />
+</FSData>
