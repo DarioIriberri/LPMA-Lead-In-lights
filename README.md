@@ -5,4 +5,4 @@ A set of effects that adds leading lights to the approximation to runway 05 of t
 
 INSTALLATION:
 
-Copy the "Addon Scenery" and "Effects" folder to your FSX root folder and merge the contents.  
+Copy the "Addon Scenery" and "Effects" folders to your FSX root folder and merge the contents.  
